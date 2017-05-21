@@ -8,7 +8,7 @@ s.summary = "PodDemo lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+#s.version = "0.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -21,7 +21,7 @@ s.author = { "dinesh sharma" => "dinesh.sharma2663@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "[Your RWPickFlavor Homepage URL Goes Here]"
+s.homepage = "https://github.com/dineshSharma2663/PodCreateDemo"
 
 # For example,
 # s.homepage = "https://github.com/dineshSharma2663/PodCreateDemo"
