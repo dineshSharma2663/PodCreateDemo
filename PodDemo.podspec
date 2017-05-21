@@ -8,7 +8,9 @@ s.summary = "PodDemo lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-#s.version = "0.1"
+s.version = "0.1"
+s.swift-version = “3.1”
+
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
